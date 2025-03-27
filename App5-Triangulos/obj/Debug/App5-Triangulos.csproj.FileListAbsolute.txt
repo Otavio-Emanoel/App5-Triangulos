@@ -1,0 +1,9 @@
+C:\Users\Aluno\source\repos\App5-Triangulos\App5-Triangulos\bin\Debug\App5-Triangulos.exe.config
+C:\Users\Aluno\source\repos\App5-Triangulos\App5-Triangulos\bin\Debug\App5-Triangulos.exe
+C:\Users\Aluno\source\repos\App5-Triangulos\App5-Triangulos\bin\Debug\App5-Triangulos.pdb
+C:\Users\Aluno\source\repos\App5-Triangulos\App5-Triangulos\obj\Debug\App5_Triangulos.Form1.resources
+C:\Users\Aluno\source\repos\App5-Triangulos\App5-Triangulos\obj\Debug\App5_Triangulos.Properties.Resources.resources
+C:\Users\Aluno\source\repos\App5-Triangulos\App5-Triangulos\obj\Debug\App5-Triangulos.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\App5-Triangulos\App5-Triangulos\obj\Debug\App5-Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\App5-Triangulos\App5-Triangulos\obj\Debug\App5-Triangulos.exe
+C:\Users\Aluno\source\repos\App5-Triangulos\App5-Triangulos\obj\Debug\App5-Triangulos.pdb
